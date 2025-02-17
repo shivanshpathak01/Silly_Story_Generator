@@ -1,0 +1,12 @@
+SID='*****'
+AUTH_TOKEN='*****'
+FROM_NUMBER='*****'
+TO_NUMBER='*****'
+API_KEY='*****'
+DEVICE_ID='*****'
+MAILGUN_API_KEY='*****'
+SANDBOX_URL='*****'
+RECEPIENT_EMAIL='*****'
+SENDER_EMAIL='*****'
+FRAME_SIZE=10
+MUL_FACTOR=6
